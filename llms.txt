@@ -21,7 +21,7 @@
 | **Released On** | June 26, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/haaye-hussain/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Haaye Hussain](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=ubtPikYEcDQ?https://imabusayed.github.io/haaye-hussain/) |
+| **Get License** | [Music Rights & Licensing for Haaye Hussain](https://music.abusayed.com.bd/Licensing/?https://www.youtube.com/watch?v=ubtPikYEcDQ?https://imabusayed.github.io/haaye-hussain/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
