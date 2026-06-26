@@ -8,16 +8,16 @@
   "public_repo_url": "https://github.com/ImAbuSayed/haaye-hussain",
   "gist_url": null,
   "telegram_post_url": "https://t.me/AbuSayedMusic/4423",
-  "youtube_link": null,
-  "spotify_link": null,
-  "apple_music_link": null,
-  "website_link": null,
+  "youtube_link": "https://www.youtube.com/watch?v=ubtPikYEcDQ",
+  "spotify_link": "",
+  "apple_music_link": "",
+  "website_link": "",
   "feature_image_url": "https://abusayed.com.bd/wp-content/uploads/2026/06/Haaye-Hussain.min_.webp",
   "sha256_hash": "1cf8baf3eff228d451c9cc7df38551587ca73bd55f7adb968751631994d77a07",
   "sha256_raw_hash": "f2b63fa9c385edc4b214695b83b20c7c2fc8cb5b2e7362c12a6dfabc769eba78",
   "lyric_version": 1,
   "proof_timestamp": "2026-06-26T20:02:35.162982",
-  "song_creation_date": null,
-  "official_release_date": null,
-  "generated_at": "2026-06-26T14:03:53Z"
+  "song_creation_date": "2026-06-26",
+  "official_release_date": "2026-06-26",
+  "generated_at": "2026-06-26T15:26:00Z"
 }
